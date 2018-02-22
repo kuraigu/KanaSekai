@@ -4,6 +4,7 @@
 //  and libraries will be included here
 //
 //////////////////////////////////////////////////////////////
+///
 /// @file       GLOBAL_H
 /// @author     Innoh Reloza
 /// @date       22 February 2018
